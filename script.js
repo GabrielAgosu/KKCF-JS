@@ -1,34 +1,39 @@
+//   //console log text, expression 
+//   console.log("hello world")
+//   console.log(3+6)
 
-  //console log text, expression 
-  console.log("hello world")
-  console.log(3+6)
+// // Create a variable to hold your name as a string
+// let myname= "gabe"
+// myname ="moses"
+// console.log(myname)
 
-// Create a variable to hold your name as a string
-let myname= "gabe"
-myname ="moses"
-console.log(myname)
+// const myMessage= "Good Morning,"
 
-const myMessage= "Good Morning,"
+// console.log(myMessage+ myname)
 
-console.log(myMessage+ myname)
+// //Concatenate your name variable into a message and log it to the console.
+// //Example: “Hello, Zach!” 
 
-//Concatenate your name variable into a message and log it to the console.
-//Example: “Hello, Zach!” 
+// //console log your name variable
 
-//console log your name variable
+// //Re-assign the value of your name variable below its declaration and console log it again
 
-//Re-assign the value of your name variable below its declaration and console log it again
+// //practice math operators
 
-//practice math operators
+// // boolean - true or false
 
-// boolean - true or false
+// //create null and undefined
 
-//create null and undefined
-
-//mix data types
+// //mix data types
 
 //string methods
 
 //link up html file and create prompt and save value
 
 //access the DOM
+
+// alert ("hi")
+prompt("enter your name")
+
+let userName = prompt("enter your name")
+console.log(Hi+ userName)
